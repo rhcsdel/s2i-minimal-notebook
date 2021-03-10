@@ -130,3 +130,5 @@ fi
 # Fixup permissions on directories and files.
 
 fix-permissions /opt/app-root
+
+ls -l /opt/app-root/
