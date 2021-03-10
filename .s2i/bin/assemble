@@ -131,4 +131,4 @@ fi
 
 fix-permissions /opt/app-root
 
-ls -l /opt/app-root/
+ls -l /opt/app-root/bin
